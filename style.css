@@ -1,0 +1,11 @@
+h3{
+  text-align: center;
+    font-size: 45px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+}
